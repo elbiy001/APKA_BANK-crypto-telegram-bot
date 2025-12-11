@@ -1,0 +1,4 @@
+aiogram
+python-dotenv
+web3
+psycopg2-binary
